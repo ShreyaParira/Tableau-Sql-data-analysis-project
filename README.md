@@ -1,10 +1,10 @@
-# 📊 Loan Portfolio Analysis
+# Loan Portfolio Analysis
 
 This project performs a comprehensive financial and risk performance analysis of the **Prosper Loan Dataset**, using SQL queries and Tableau visualizations. The objective is to assess lending performance metrics such as loan disbursement trends, borrower risk profiles, interest recovery, losses, and profitability.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── Data Definition Language.sql         # SQL script to create the data table
@@ -18,7 +18,7 @@ This project performs a comprehensive financial and risk performance analysis of
 
 ---
 
-## 🧩 Dataset
+## Dataset
 
 - **Source**: Prosper Marketplace
 - **File**: `prosper loan dataset.csv`
@@ -47,27 +47,27 @@ This project performs a comprehensive financial and risk performance analysis of
 
 ---
 
-## 📌 Key Analyses
+## Key Analyses
 
-### 🔹 From `Analysis.sql`
+### From `Analysis.sql`
 - Total loan disbursed
 - Average APR and borrower rate
 - Net principal loss and recovery amounts
 - Average monthly payment
 - Total interest and service fees
 
-### 🔹 From `Loan_Portfolio_Analysis.sql`
+### From `Loan_Portfolio_Analysis.sql`
 - Loan disbursement grouped by Prosper rating
 - Distribution and trends of loan amounts
 
-### 🔹 From `Metrics.sql`
+### From `Metrics.sql`
 - Month-wise loan performance
 - Average profit/loss per month
 - Debt-to-income trends
 
 ---
 
-## 🧾 Variable Reference
+## Variable Reference
 
 Refer to `Variable definitions.pdf` for detailed explanations of 80+ fields such as:
 
@@ -76,7 +76,7 @@ Refer to `Variable definitions.pdf` for detailed explanations of 80+ fields such
 
 ---
 
-## 📈 Visualizations (Tableau Highlights)
+## Visualizations (Tableau Highlights)
 
 - Disbursement Trend Over Time
 - Recovery vs Loss by Quarter
@@ -85,7 +85,7 @@ Refer to `Variable definitions.pdf` for detailed explanations of 80+ fields such
 
 ---
 
-## 📌 Technologies Used
+## Technologies Used
 
 - **MySQL** for data storage and analysis
 - **Tableau** for visualization and dashboarding
@@ -93,7 +93,7 @@ Refer to `Variable definitions.pdf` for detailed explanations of 80+ fields such
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 This project helps stakeholders understand:
 
@@ -102,7 +102,3 @@ This project helps stakeholders understand:
 - Data-driven insights to improve loan performance strategy
 
 ---
-
-## 📬 Contact
-
-For questions or suggestions, feel free to connect with the project contributor.
